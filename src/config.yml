@@ -1,0 +1,20 @@
+#################################
+# rJoinLeave Message by Ravis96 #
+#################################
+#Join Message
+PlayerFirstjoin: '&7[&2&l+&7] &6%player% &2has joined &cfirst time!'
+Playerjoin: '&7[&2&l+&7] &6%player% &2has joined!'
+VIPjoin: '&7[&2&l+&7] &cVIP &6%player% &2has joined!'
+Adminjoin: '&7[&2&l+&7] &cAdmin &6%player% &2has joined!'
+
+#Leave Message
+Playerleft: '&7[&4&l-&7] &6%player% &cleft!'
+VIPleft: '&7[&4&l-&7] &2VIP &6%player% &cleft!'
+Adminleft: '&7[&4&l-&7] &2Admin &6%player% &cleft!'
+
+#You must set permissions such as below to receive notifications, e.g. Admin
+##########################
+# Player: Default        #
+# VIP: rjl.vip           #
+# Admin: rjl.admin or OP #
+##########################
